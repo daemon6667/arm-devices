@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #
-# The script downloads kernel sources 
+# The script applies Igor Pecovnik's patches to mainline kernel sources
 #
 
 if [ -f ./commons.sh ]; then
